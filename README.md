@@ -249,7 +249,7 @@ Current Goal:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mirzamehediabbas/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
